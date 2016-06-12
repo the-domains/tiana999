@@ -1,29 +1,41 @@
-name: tiana999
-favicon: null
-layout_spectrum: 0.7077117417939007
-typography_spectrum: 0.16461
 title: Tiana Lin
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2523251
+  brandStrength: 0.5354457
+  lightness: 0.2035446
+  brandColors:
+    - '#FFFFFF'
+    - '#2D2D2E'
+    - '#C1C1C1'
+    - '#737373'
+    - '#0057FB'
+  rhythmicContrast: 0.3283408
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: tiana999
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#284e97'
-    - '#aab0be'
-    - '#fffdfd'
-    - '#7c828e'
-  brandStrength: 0.5683879968710244
-  lightness: 0.03895002184435725
-  saturation: 0.2523250631056726
-  rhythmicContrast: 0.32834075717255473
-purpose: []
+typography_spectrum: 0.16461
+layout_spectrum: 0.7077117417939007
